@@ -11,8 +11,8 @@ This is an open-source project dedicated to aviation enthusiasts (avgeeks) aroun
 
 ## Technologies
 
-- **Frontend**: [React](https://reactjs.org/)
-- **Backend**: [Node.js](https://nodejs.org/) (if applicable)
+- **Frontend**: [Next.js](https://nextjs.org/) (React-based framework with server-side rendering and static site generation)
+- **Backend**: [Node.js](https://nodejs.org/) (if applicable, used for APIs and server-side functionality)
 - **Database**: [MongoDB](https://www.mongodb.com/) (if applicable)
 - **API**: Integration with flight status APIs (if applicable)
 
