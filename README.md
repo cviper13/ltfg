@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Gazipaşa Airport Website (LTFG)
 
-## Getting Started
+This is an open-source project dedicated to aviation enthusiasts (avgeeks) around **Gazipaşa Airport (LTFG)**, located in the **Gazipaşa** district of Antalya, Turkey. The website serves as a hub for sharing live flight information, airport details, and local guides tailored for anyone passionate about aviation in the region.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Live Flight Information**: Real-time updates on departures, arrivals, and flight statuses at Gazipaşa Airport.
+- **Airport Details**: Information on the airport's facilities, services, and operations.
+- **Local Area Guide**: Recommendations for local aviation-related spots, attractions, and places to visit.
+- **News & Updates**: Stay up-to-date with airport news, changes, and other aviation-related developments in the region.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Frontend**: [React](https://reactjs.org/)
+- **Backend**: [Node.js](https://nodejs.org/) (if applicable)
+- **Database**: [MongoDB](https://www.mongodb.com/) (if applicable)
+- **API**: Integration with flight status APIs (if applicable)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## How to Contribute
 
-## Learn More
+If you’re an avgeek in the area and want to contribute, here’s how:
 
-To learn more about Next.js, take a look at the following resources:
+1. **Fork the repository**: Make a copy of the project to your GitHub account.
+2. **Create a branch**: Work on your feature or fix in a separate branch.
+3. **Commit your changes**: Make sure your commit messages describe the changes clearly.
+4. **Push your changes**: Push your branch to your forked repository.
+5. **Open a pull request**: Submit a pull request and I’ll review your changes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
 
-## Deploy on Vercel
+## Acknowledgments
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Gazipaşa-Alanya Airport (LTFG)** for inspiring this community-driven project.
+- The **aviation community** for their passion and contributions to the world of flight.
